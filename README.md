@@ -7,9 +7,25 @@ I am a UI designer turned frontend developer with a passion for creating seamles
 * ✉️  You can contact me at [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com) 
 * 🧠  I'm learning React now
 
-### Training  
+### Code challenges  
 
 <img src="https://www.codewars.com/users/kdubrovsky/badges/small">
+
+### Courses
+
+#### Alexandr Luschenko
+
+* JavaScript 2.0
+* Array methods
+* Functions in JavaScript *(In progress)*
+* ReactJS *(In progress)*
+
+#### Udemy
+
+* Build Responsive Real-World Websites with HTML and CSS
+* Advanced CSS and Sass: Flexbox, Grid, Animations and More
+* JavaScript — The Complete Guide 2023 (Beginner + Advanced) *(In progress)*
+* React — The Complete Guide (incl Hooks, React Router, Redux) *(In progress)*
 
 ### Skills  
 
