@@ -9,14 +9,18 @@ I am a UI designer turned frontend developer with a passion for creating seamles
 
 ### Code challenges  
 
-<img src="https://www.codewars.com/users/kdubrovsky/badges/small">
+[Frontend Mentor](https://www.frontendmentor.io/profile/kdubrovsky)
+
+[Codewars](https://www.codewars.com/users/kdubrovsky)
+
+<img src="https://www.codewars.com/users/kdubrovsky/badges/micro">
 
 ### Courses
 
 #### Alexandr Luschenko
 
-* JavaScript 2.0
-* Array methods
+* [JavaScript 2.0](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=e8ass8rz3azh)
+* [Array methods](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=b29b9e82tvx7)
 * Functions in JavaScript *(In progress)*
 * ReactJS *(In progress)*
 
