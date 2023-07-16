@@ -2,7 +2,13 @@ Hi 👋 My name is Constantine Tereschenkov
 ========================================= 
 UI/UX Interface Engineer
 ------------------------ 
-I am a UI designer turned frontend developer with a passion for creating seamless and user-friendly web experiences. With my background in design, I bring a unique perspective to my development work, always keeping the end user in mind. I have a strong understanding of HTML, CSS and JavaScript to build dynamic and responsive interfaces. I enjoy collaborating with other designers and developers to bring complex projects to life. My design background also allows me to contribute to the design process, providing valuable input and feedback to create better products.
+I am a frontend developer with a background in UI design. I am passionate about creating seamless and user-friendly web experiences. With my design expertise, I bring a unique perspective to my development work, always keeping the end user in mind.
+
+I have a solid understanding of HTML, CSS, and JavaScript, which allows me to build dynamic and responsive interfaces. I enjoy collaborating with other designers and developers to bring complex projects to life. Additionally, my design background enables me to contribute to the design process by providing valuable input and feedback, resulting in better products.
+
+While I have a background in UI design, my primary focus now is on frontend development. I strive to continually enhance my coding skills to deliver high-quality, visually appealing web applications that meet user expectations.
+
+
 
 * 🌍  Based in Batumi 
 * ✉️  You can contact me at [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com) 
