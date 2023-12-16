@@ -8,8 +8,6 @@ I have a solid understanding of HTML, CSS, and JavaScript, which allows me to bu
 
 While I have a background in UI design, my primary focus now is on frontend development. I strive to continually enhance my coding skills to deliver high-quality, visually appealing web applications that meet user expectations.
 
-
-
 * 🌍  Based in Batumi 
 * ✉️  You can contact me at [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com) 
 * 🧠  Learning advanced React features & TypeScript now
@@ -46,6 +44,6 @@ While I have a background in UI design, my primary focus now is on frontend deve
 * CSS,SCSS — pretty good
 * JS — medium
 * React — medium
+* Astro - medium
 * Git — beginner
-* React — beginner
 * Docker — beginner
