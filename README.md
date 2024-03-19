@@ -27,8 +27,8 @@ While I have a background in UI design, my primary focus now is on frontend deve
 
 * [JavaScript 2.0](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=e8ass8rz3azh)
 * [Array methods](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=b29b9e82tvx7)
-* Functions in JavaScript *(In progress)*
-* ReactJS *(In progress)*
+* [Functions in JavaScript](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=ngxfjcc6a3sw)
+* * ReactJS *(In progress)*
 
 #### Udemy
 
@@ -41,7 +41,7 @@ While I have a background in UI design, my primary focus now is on frontend deve
 
 * Figma & UI/UX Design — proficient 
 * HTML, BEM — very good
-* CSS,SCSS — pretty good
+* CSS, SCSS — pretty good
 * JS — medium
 * React — medium
 * Astro - medium
