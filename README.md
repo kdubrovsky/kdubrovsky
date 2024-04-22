@@ -28,22 +28,25 @@ While I have a background in UI design, my primary focus now is on frontend deve
 * [JavaScript 2.0](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=e8ass8rz3azh)
 * [Array methods](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=b29b9e82tvx7)
 * [Functions in JavaScript](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=ngxfjcc6a3sw)
-* * ReactJS *(In progress)*
 
 #### Udemy
 
 * Build Responsive Real-World Websites with HTML and CSS
 * Advanced CSS and Sass: Flexbox, Grid, Animations and More
-* JavaScript — The Complete Guide 2023 (Beginner + Advanced) *(In progress)*
-* React — The Complete Guide (incl Hooks, React Router, Redux) *(In progress)*
+* JavaScript — The Complete Guide 2023 (Beginner + Advanced)
+* React — The Complete Guide (incl Hooks, React Router, Redux)
 
 ### Skills  
 
 * Figma & UI/UX Design — proficient 
-* HTML, BEM — very good
+* HTML, BEM — proficient
 * CSS, SCSS — pretty good
-* JS — medium
-* React — medium
+* JS — pretty good
+* TS - beginner
+* React — pretty good
+* Redux - beginner
 * Astro - medium
+* Next - beginner
+* Node - beginner
 * Git — beginner
 * Docker — beginner
