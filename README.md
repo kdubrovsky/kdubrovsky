@@ -1,6 +1,6 @@
 Hi 👋 My name is Constantine Tereschenkov
 ========================================= 
-UI/UX Interface Engineer
+Interface Engineer
 ------------------------ 
 I am a frontend developer with a background in UI design. I am passionate about creating seamless and user-friendly web experiences. With my design expertise, I bring a unique perspective to my development work, always keeping the end user in mind.
 
@@ -35,18 +35,21 @@ While I have a background in UI design, my primary focus now is on frontend deve
 * Advanced CSS and Sass: Flexbox, Grid, Animations and More
 * JavaScript — The Complete Guide 2023 (Beginner + Advanced)
 * React — The Complete Guide (incl Hooks, React Router, Redux)
+* Docker & Kubernetes: The Practical Guide 2024
+* Next.js 14 & React - The Complete Guide 
 
-### Skills  
+### Stack  
 
 * Figma & UI/UX Design — proficient 
 * HTML, BEM — proficient
 * CSS, SCSS — pretty good
 * JS — pretty good
-* TS - beginner
+* TS — beginner
 * React — pretty good
-* Redux - beginner
-* Astro - medium
-* Next - beginner
-* Node - beginner
+* React Router — beginner 
+* Redux — beginner
+* Astro — medium
+* Next — beginner
+* Node — beginner
 * Git — beginner
 * Docker — beginner
