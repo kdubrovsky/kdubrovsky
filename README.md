@@ -53,3 +53,4 @@ While I have a background in UI design, my primary focus now is on frontend deve
 * Node — beginner
 * Git — beginner
 * Docker — beginner
+* Storybook — pretty good
