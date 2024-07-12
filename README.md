@@ -40,17 +40,12 @@ While I have a background in UI design, my primary focus now is on frontend deve
 
 ### Stack  
 
-#### Languages
-Javascript, TypeScript, Haskell
+**Languages:** Javascript, TypeScript, Haskell
 
-#### Markup
-HTML, BEM, CSS, SCSS
+**Markup:** HTML, BEM, CSS, SCSS
 
-#### Libraries
-React, React Router, Redux, Storybook, GSAP
+**Libraries:** React, React Router, Redux, Storybook, GSAP
 
-#### Frameworks
-Astro, Remix, Next.js
+**Frameworks:** Astro, Remix, Next.js
 
-#### Tools
-Figma, Node, Git, Docker, Vite, Webpack, ESLint, Sanity
+**Tools:** Figma, Node, Git, Docker, Vite, Webpack, ESLint, Sanity
