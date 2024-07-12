@@ -40,17 +40,17 @@ While I have a background in UI design, my primary focus now is on frontend deve
 
 ### Stack  
 
-* Figma & UI/UX Design — proficient 
-* HTML, BEM — proficient
-* CSS, SCSS — pretty good
-* JS — pretty good
-* TS — beginner
-* React — pretty good
-* React Router — beginner 
-* Redux — beginner
-* Astro — medium
-* Next — beginner
-* Node — beginner
-* Git — beginner
-* Docker — beginner
-* Storybook — pretty good
+#### Languages
+Javascript, TypeScript, Haskell
+
+#### Markup
+HTML, BEM, CSS, SCSS
+
+#### Libraries
+React, React Router, Redux, Storybook, GSAP
+
+#### Frameworks
+Astro, Remix, Next.js
+
+#### Tools
+Figma, Node, Git, Docker, Vite, Webpack, ESLint, Sanity
