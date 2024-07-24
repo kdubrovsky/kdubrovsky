@@ -10,8 +10,6 @@ While I have a background in UI design, my primary focus now is on frontend deve
 
 * 🌍  Based in Batumi 
 * ✉️  You can contact me at [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com) 
-* 🧠  Learning advanced React features & TypeScript now
-* 👽  Diving into Haskell just for fun and mind training
 
 ### Code challenges  
 
@@ -20,23 +18,6 @@ While I have a background in UI design, my primary focus now is on frontend deve
 [Codewars](https://www.codewars.com/users/kdubrovsky)
 
 <img src="https://www.codewars.com/users/kdubrovsky/badges/small">
-
-### Courses
-
-#### Alexandr Luschenko
-
-* [JavaScript 2.0](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=e8ass8rz3azh)
-* [Array methods](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=b29b9e82tvx7)
-* [Functions in JavaScript](https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=ngxfjcc6a3sw)
-
-#### Udemy
-
-* Build Responsive Real-World Websites with HTML and CSS
-* Advanced CSS and Sass: Flexbox, Grid, Animations and More
-* JavaScript — The Complete Guide 2023 (Beginner + Advanced)
-* React — The Complete Guide (incl Hooks, React Router, Redux)
-* Docker & Kubernetes: The Practical Guide 2024
-* Next.js 14 & React - The Complete Guide 
 
 ### Stack  
 
