@@ -26,10 +26,8 @@ I strive to continually enhance my coding skills to deliver high-quality, visual
 
 **Languages:** Javascript + TypeScript, Haskell
 
-**Markup:** HTML, BEM, CSS, SCSS
+**Markup:** HTML, CSS, SCSS, SC, CSSM
 
-**Libraries:** React, React Router, Redux, Storybook, GSAP
+**Libraries:** React, React Router, Redux/RTK, React Query, Storybook, GSAP
 
-**Frameworks:** Astro, Remix, Next.js
-
-**Tools:** Figma, Node, Git, Docker, Vite, Webpack, ESLint, Sanity
+**Frameworks:** Astro, Remix, Next.js, Nest
