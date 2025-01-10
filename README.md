@@ -24,10 +24,6 @@ I strive to continually enhance my coding skills to deliver high-quality, visual
 
 ### Stack  
 
-**Languages:** Javascript + TypeScript, Haskell
+Javascript + TypeScript, Haskell(for fun)
 
-**Markup:** HTML, CSS, SCSS, SC, CSSM
-
-**Libraries:** React, React Router, Redux/RTK, React Query, Storybook, GSAP
-
-**Frameworks:** Astro, Remix, Next.js, Nest
+HTML, CSS, SCSS, SC, CSSM, React, React Router, Redux/RTK, React Query, Storybook, ~~GSAP~~, Astro, Remix, Next.js, Nest, Jest
