@@ -1,8 +1,6 @@
 Hi 👋 My name is Constantine Tereschenkov
 ========================================= 
-Interface Engineer
------------------------- 
-I am a frontend developer with a UI/UX design background. I am passionate about creating seamless and user-friendly web experiences.
+I am a product engineer with a UI/UX design background. I am passionate about creating seamless and user-friendly web experiences.
 
 I have a solid understanding of HTML, CSS, and JavaScript, which allows me to build dynamic and responsive interfaces. I enjoy collaborating with other designers and developers to bring complex projects to life. Additionally, my design background enables me to contribute to the design process by providing valuable input and feedback, resulting in better products.
 
@@ -26,4 +24,4 @@ I strive to continually enhance my coding skills to deliver high-quality, visual
 
 Javascript + TypeScript, Haskell(for fun)
 
-HTML, CSS, SCSS, SC, CSSM, React, React Router, Redux/RTK, React Query, Storybook, ~~GSAP~~, Astro, Remix, Next.js, Nest, Jest
+HTML, CSS, SCSS, React + stuff, Astro, Remix, Next.js, Nest, Jest
