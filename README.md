@@ -2,12 +2,11 @@ Hi 👋 My name is Constantine Tereschenkov
 ========================================= 
 Product engineer @ [Trustform](https://trustform.io).
 
-* 🇬🇪 Based in Georgia, Batumi 
+* 🇷🇸 Based in Belgrade 
 * ✉️ [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com)
 * 💬 [telegram](https://t.me/kdubrovsky)
 
 ### Stack  
+TypeScript
 
-Javascript + TypeScript, Haskell(for fun)
-
-HTML/CSS/SCSS, React + stuff, Svelte, Astro, RR7, Next.js, Nest, GraphQL
+HTML/CSS/SCSS, React, Svelte, Astro, RR7, Next.js, Nest, GraphQL
