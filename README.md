@@ -1,6 +1,6 @@
 Hi 👋 My name is Constantine Tereschenkov
 ========================================= 
-Product engineer @ [Trustform](https://trustform.io).
+Product engineer
 
 * 🇷🇸 Based in Belgrade 
 * ✉️ [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com)
