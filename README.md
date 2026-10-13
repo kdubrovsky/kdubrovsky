@@ -2,7 +2,7 @@ Constantine Tereschenkov
 ========================================= 
 Product engineer based in 🇷🇸 Belgrade
 
-* 👨🏻‍💼 [linkedin] (https://www.linkedin.com/in/ktereschenkov/)
+* 👨🏻‍💼 [linkedin](https://www.linkedin.com/in/ktereschenkov/)
 * ✉️ [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com)
 * 💬 [telegram](https://t.me/kdubrovsky)
 
