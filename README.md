@@ -1,11 +1,12 @@
-Hi 👋 My name is Constantine Tereschenkov
+Constantine Tereschenkov
 ========================================= 
-Product engineer
+Product engineer based in 🇷🇸 Belgrade
 
-* 🇷🇸 Based in Belgrade 
+* 👨🏻‍💼 [linkedin] (https://www.linkedin.com/in/ktereschenkov/)
 * ✉️ [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com)
 * 💬 [telegram](https://t.me/kdubrovsky)
 
 ### Stack  
 
-HTML/CSS/SCSS, TypeScript, React, Svelte, Astro, RR7, Next.js, Nest, GraphQL
+- HTML/CSS/SCSS, TypeScript, React, RR, Svelte, Astro, Next, Tanstack
+- Node, GraphQL, PostgreSQL, TypeORM, Nest
