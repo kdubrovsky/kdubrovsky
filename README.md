@@ -1,4 +1,4 @@
-Constantine Tereschenkov
+Konstantin Tereschenkov
 ========================================= 
 Product engineer based in 🇷🇸 Belgrade
 
