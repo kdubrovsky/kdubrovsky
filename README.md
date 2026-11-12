@@ -2,8 +2,7 @@ Konstantin Tereschenkov
 ========================================= 
 Product engineer based in 🇷🇸 Belgrade
 
-* 👨🏻‍💼 [linkedin](https://www.linkedin.com/in/ktereschenkov/)
-* ✉️ [kdubrovsky@icloud.com](mailto:kdubrovsky@icloud.com)
+* ✉️ [konstantin@twoletters.rs](mailto:konstantin@twoletters.rs)
 * 💬 [telegram](https://t.me/kdubrovsky)
 
 ### Stack  
